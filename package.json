@@ -1,0 +1,22 @@
+{
+  "name": "NodeApp",
+  "version": "1.0.0",
+  "description": "Basic HTTP Server Demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autoopsltd/JenkinsDockerNode/new/master"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "autoopsltd@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
