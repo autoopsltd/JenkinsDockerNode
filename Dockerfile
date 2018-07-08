@@ -1,4 +1,4 @@
-FROM node:9-alpine
+FROM alpine
 ADD . /
 RUN npm install
 EXPOSE 3000
